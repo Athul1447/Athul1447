@@ -20,7 +20,7 @@ I'm a data scientist and ML practitioner with hands-on experience building deep 
 I enjoy turning messy data into something that actually means something — whether that's a model that detects fatigue in real time, a pipeline that runs itself, or a dashboard that makes a non-technical stakeholder say *"oh, now I get it."*
 
 - 🔭 Currently working on: ML projects as part of my MSc in Big Data Management & Analytics
-- 🌱 Deepening: PyTorch, Hugging Face, embeddings, and multimodal ML
+- 🌱 Deepening: PyTorch(Msc coursework), Hugging Face, embeddings, and multimodal ML
 - 💬 Ask me about: Python, SQL, machine learning, Power BI, computer vision
 - 📍 Based in: Dublin, Ireland
 
