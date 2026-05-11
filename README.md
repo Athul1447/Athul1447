@@ -6,7 +6,7 @@
 
 *MSc Big Data Management and Analytics @ Griffith College Dublin*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athulkrishna)
+[![LinkedIn](https://www.linkedin.com/in/athul-krishna-65073a2b3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1447unni@gmail.com)
 
 </div>
